@@ -1,6 +1,8 @@
 import react from 'react';
+import logo from './../Assets/logo.Svg';
 
-import logo from "./Assets/logo.svg";
+
+
 const Navbar = () => {
   return (
     <div className="w-full bg-white border-b border-gray-200">
@@ -33,7 +35,6 @@ const Navbar = () => {
   );
 };
 
-export default Navbar;
 
 
 
