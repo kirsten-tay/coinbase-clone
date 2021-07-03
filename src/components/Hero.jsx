@@ -20,9 +20,28 @@ const Hero = (Hero) => {
           <span>portfolio</span>
         </div>
         
+        <div className="flex flex-col my-5 text-1.5xl font-medium ">
+          <span>Coinbase is the easiest place to buy and sell</span>
+          <span>cryptocurrency. Sign up and get started today.</span>
+        </div>
+        <div className="flex flex-1 text-2xl font-medium  ">
+          <form  >
+           
+            <input  type="email" id="email" name="email"  placeholder="Email address" ></input>
+
+           
+        
+          </form>
+          <button className="border-o outline-none hover:bg-blue-700 font-medium p-2 bg-blue-600 text-white rounded-md">
+              Get Started
+            </button>
+        </div>
 
         </div>
-        </div>
+      <div className="flex flex-1 justify-center items-center">
+        <PhoneSvg />
+      </div>
+    </div>
 
 
   )
