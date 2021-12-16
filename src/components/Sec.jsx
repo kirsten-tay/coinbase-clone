@@ -81,7 +81,7 @@ import React from "react";
               We store the vast majority of the digital assets in secure offline
               storage.
             </p>
-            <a href="#">
+            <a href="Hero">
               Learn how Coinbase keeps your funds safe and secure >
             </a>
           </div>
@@ -97,7 +97,7 @@ import React from "react";
               We store the vast majority of the digital assets in secure offline
               storage.
             </p>
-            <a href="#">
+            <a href="Sec">
               Learn how Coinbase keeps your funds safe and secure >
             </a>
           </div>
@@ -114,7 +114,7 @@ import React from "react";
               We store the vast majority of the digital assets in secure offline
               storage.
             </p>
-            <a href="#">
+            <a href="Navbar">
               Learn how Coinbase keeps your funds safe and secure >
             </a>
           </div>

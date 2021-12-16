@@ -13,12 +13,12 @@ const Navbar = () => {
           </div>
 
           <nav className="space-x-10 flex">
-            <a  href="" className="text-sm">Prices</a>
-            <a className="text-sm">Learn</a>
-            <a className="text-sm">Individual</a>
-            <a className="text-sm">Businesses</a>
-            <a className="text-sm">Developers</a>
-            <a className="text-sm">Company</a>
+            <a  href="Hero" className="text-sm">Prices</a>
+            <a  href= "Phone" className="text-sm">Learn</a>
+            <a href= "Sec" className="text-sm">Individual</a>
+            <a href= "Table" className="text-sm">Businesses</a>
+            <a href= "Hero" className="text-sm">Developers</a>
+            <a href= "Hero" className="text-sm">Company</a>
           </nav>
           <div className="flex flex-1 items-center justify-end">
             <button className="border-o outline-none hover:text-blue-700 font-medium p-2">
