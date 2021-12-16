@@ -1,9 +1,9 @@
+
 import React, { Fragment } from 'react';
 import FooterSvg1 from './FooterSvg1';
 import FooterSvg2 from './FooterSvg2';
 import FooterSvg3 from './FooterSvg3';
-import footer_image from '../Assets/footer_image.png'
-
+import logo from '../Assets/logo.Svg';
 
 
 const Footer = () => {
@@ -57,7 +57,7 @@ const Footer = () => {
             </button>
                     </div>
                     <div className='flex flex-1 justify-end items-center'>
-                        <img src={footer_image}
+                        <img src={logo} alt={" bottom"}
                             className="h-full"
 
                         />

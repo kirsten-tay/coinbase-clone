@@ -1,4 +1,4 @@
-import react from 'react';
+import React from 'react';
 import logo from './../Assets/logo.Svg';
 
 
@@ -9,11 +9,11 @@ const Navbar = () => {
       <div className="max-w-7x1 mx-auto ">
         <div className="flex justify-between items-center py-5 px-10">
           <div className="flex flex-1 justify-start">
-            <img src={logo} className="w-20" />
+            <img src={logo}  alt={" top "} className="w-20" />
           </div>
 
           <nav className="space-x-10 flex">
-            <a className="text-sm">Prices</a>
+            <a  href="" className="text-sm">Prices</a>
             <a className="text-sm">Learn</a>
             <a className="text-sm">Individual</a>
             <a className="text-sm">Businesses</a>

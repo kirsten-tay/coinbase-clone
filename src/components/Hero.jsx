@@ -1,5 +1,4 @@
-import react from 'react';
-import React, { Fragment } from "react";
+import React from "react";
 import ArrowSvg from "./ArrowSvg";
 import BlueBtcSvg from "./BlueBtcSvg";
 import PhoneSvg from "./PhoneSvg";
