@@ -5,14 +5,14 @@ import React from "react";
  function Sec() {
   return (
     <>
-    <div className="col-4"
+  
       <div className="crptograph">
         <p className="title">Create your cryptocurrency portfolio today</p>
         <p className="title_btm">
           Coinbase has a variety of features that make it the best place to
           start trading
         </p>
-        </div>
+    
         <div className="section">
           <div className="left">
             <div className="row_port">
